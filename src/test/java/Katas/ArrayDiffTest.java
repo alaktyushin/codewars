@@ -1,3 +1,6 @@
+package Katas;
+
+import Katas.ArrayDiff;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

@@ -1,4 +1,4 @@
-
+package Katas;
 
 public class ReverseWords {
 
