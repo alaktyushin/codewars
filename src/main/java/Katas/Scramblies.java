@@ -12,17 +12,4 @@ public class Scramblies {
         }
         return true;
     }
-
-    public static void main(String[] args) {
-        System.out.println(Scramblies.scramble("rkqodlw","world"));
-        System.out.println(Scramblies.scramble("cedewaraaossoqqyt","codewars"));
-        System.out.println(Scramblies.scramble("katas","steak"));
-        System.out.println(Scramblies.scramble("scriptjavx","javascript"));
-        System.out.println(Scramblies.scramble("scriptingjava","javascript"));
-        System.out.println(Scramblies.scramble("scriptsjava","javascripts"));
-        System.out.println(Scramblies.scramble("javscripts","javascript"));
-        System.out.println(Scramblies.scramble("aabbcamaomsccdd","commas"));
-        System.out.println(Scramblies.scramble("commas","commas"));
-        System.out.println(Scramblies.scramble("sammoc","commas"));
-    }
 }
